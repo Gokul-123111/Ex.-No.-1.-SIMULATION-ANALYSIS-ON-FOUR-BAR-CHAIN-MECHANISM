@@ -46,8 +46,7 @@
 ###   Thus, link CD revolves with ωcd = 4 rad/s (clockwise about D) 
 
 
-## Output:
-![image](https://github.com/user-attachments/assets/1bf1d539-d909-4466-aad6-22c80c241b9b)
+## Output: ![image]![Screenshot (29)](https://github.com/user-attachments/assets/236ed8c8-a591-4775-9f1f-d60eeb38f5eb)
 ![image](https://github.com/user-attachments/assets/f9f698f2-65a4-4ab4-9d0a-1b2fc9926aad)
 
 
